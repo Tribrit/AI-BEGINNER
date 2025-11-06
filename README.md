@@ -4,7 +4,7 @@
 # 🧮 Simple Calculator in Ruby
 
 A beginner-friendly command-line calculator built with Ruby.
-This program demonstrates **basic arithmetic operations**, **function use**, **user input handling**, and **code organization** — all while keeping the structure simple and readable.
+This program demonstrates **basic arithmetic operations**, **function use**, **user input handling**, and **code organization** — all while keeping the structure simple and readable with the help of ai in development.
 
 ---
 
